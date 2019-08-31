@@ -32,7 +32,7 @@
 			<scope>test</scope>
 		</dependency>
 	</dependencies>
-
+	<!--想使用Spring Cloud必须添加下面这个dependencyManagement-->
 	<dependencyManagement>
 		<dependencies>
 			<dependency>
