@@ -20,7 +20,7 @@
 	</properties>
 
 	<dependencies>
-		<!-- 包含Eureka库（其中包含Ribbon） -->
+		<!-- 包含Eureka库，服务端配置（其中包含Ribbon） -->
 		<dependency>
 			<groupId>org.springframework.cloud</groupId>
 			<artifactId>spring-cloud-starter-netflix-eureka-server</artifactId>
