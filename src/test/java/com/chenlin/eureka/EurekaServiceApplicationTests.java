@@ -1,4 +1,4 @@
-package com.lin.eureka;
+package com.chenlin.eureka;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
